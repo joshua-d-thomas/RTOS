@@ -1,5 +1,3 @@
-"In Python, 'self' is a reference to the instance of the class that is being manipulated. It allows you to access the attributes and methods of the current object."
-
 class Rectangle:
     
     # def      - Defines the constructor method for the class.
