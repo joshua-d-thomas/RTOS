@@ -2,7 +2,7 @@ import time
 import serial
 
 # Replace with your actual serial port (check in Arduino IDE)
-arduinoData = serial.Serial('/dev/cu.usbmodem14301', 9600)
+arduinoData = serial.Serial('/dev/cu.usbmodem14101', 9600)
 
 time.sleep(2)  # Allow time for the connection to establish
 
