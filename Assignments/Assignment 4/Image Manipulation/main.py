@@ -15,7 +15,6 @@ print("Matrix with cross pattern:\n", frame)
 cv2.imshow('Cross Pattern', frame)
 cv2.moveWindow('Cross Pattern', 0, 0)
 
-
 ## Playing with Colors
 # Create a 250x250 image filled with red
 image = np.zeros((250, 250, 3), dtype=np.uint8)
